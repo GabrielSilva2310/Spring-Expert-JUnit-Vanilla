@@ -88,7 +88,7 @@ Pré-requisitos: Java 17
 # clonar repositório
 git clone https://github.com/GabrielSilva2310/Spring-Expert-JUnit-Vanilla.git
 ```
-Importar Projeto para uma IDE , e executar o JUnit na classe Financing.Test
+Importar Projeto para uma IDE de sua escolha , e executar o JUnit na classe Financing.Test
 
 
 
